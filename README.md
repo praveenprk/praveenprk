@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: incopraveen@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: ...
+
+<a href="https://app.daily.dev/praveenbharatsagar"><img src="https://api.daily.dev/devcards/0c2ffc9bb8fe4789af8a9156ed9d6316.png?r=14n" width="400" alt="Praveen Kumar's Dev Card"/></a>
