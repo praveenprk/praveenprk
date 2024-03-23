@@ -8,7 +8,7 @@
 * 🤔 I’m looking for help with finding opportunities and understanding the space & defense engineering and its intricacies, finding sensible and civilizational use cases of AI in the fields of climate science and others.
 * 👯 I’m looking to collaborate on AI use cases, creating model for simplifying complex research paper into understandable report with links to required resources for deeper understanding of any research topic.
 
-Here are some ideas to get you started:
+More about me:
 
 - 🔭 I’m currently working on a SaaS Management Software
 - 💬 Up for a healthy discussion about AI, robotics, philosophy, books, travel, technology, role of ai in governance, and many more.
