@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a SaaS Management Software
-- 💬 Up for a healthy discussion about AI, robotics, philosophy, books, travel, technology, role of ai in governance
+- 💬 Up for a healthy discussion about AI, robotics, philosophy, books, travel, technology, role of ai in governance, and many more.
 - 📫 How to reach me: incopraveen@gmail.com
 
 <a href="https://app.daily.dev/praveenbharatsagar"><img src="https://api.daily.dev/devcards/v2/XFwqTiovRoTLbUydjzqtu.png?type=default&r=252" width="356" alt="Praveen Kumar's Dev Card"/></a>
