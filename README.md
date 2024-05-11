@@ -10,6 +10,7 @@
 
 **More about me:**
 
+- 🙋 Portfolio [https://praveenprk.github.io/whoami/]
 - 🔭 I’m currently working on a SaaS Management Software
 - 💬 Up for a healthy discussion about AI, robotics, philosophy, books, travel, technology, role of ai in governance, and many more.
 - 📫 How to reach me: incopraveen@gmail.com
