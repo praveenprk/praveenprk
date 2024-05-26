@@ -18,5 +18,6 @@
 **Profiles elsewhere:**
 
 - https://peerlist.io/praveenkumar07/resume
+- https://wellfound.com/u/praveen-kumar-478
 
 <a href="https://app.daily.dev/praveenbharatsagar"><img src="https://api.daily.dev/devcards/v2/XFwqTiovRoTLbUydjzqtu.png?type=default&r=252" width="356" alt="Praveen Kumar's Dev Card"/></a>
