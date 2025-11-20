@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 * 💻 Working with range of javascript technologies, frameworks, libraries
 * 🖥️ Cross-Desktop App & Cross-Browser Extensions developer, app scaled & deployed to 9000 devices
@@ -22,6 +22,6 @@
 
 <a href="https://app.daily.dev/praveenbharatsagar"><img src="https://api.daily.dev/devcards/v2/XFwqTiovRoTLbUydjzqtu.png?type=default&r=252" width="356" alt="Praveen Kumar's Dev Card"/></a>
 
-Articles I really liked:
+Articles I resontated with:
 
 - [Why culture may be our most powerful lever for progress](https://bigthink.com/high-culture/culture-drives-progress)
