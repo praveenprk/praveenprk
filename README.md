@@ -21,3 +21,7 @@
 - https://wellfound.com/u/praveen-kumar-478
 
 <a href="https://app.daily.dev/praveenbharatsagar"><img src="https://api.daily.dev/devcards/v2/XFwqTiovRoTLbUydjzqtu.png?type=default&r=252" width="356" alt="Praveen Kumar's Dev Card"/></a>
+
+Articles I really liked:
+
+- [Why culture may be our most powerful lever for progress](https://bigthink.com/high-culture/culture-drives-progress)
