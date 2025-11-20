@@ -24,4 +24,4 @@
 
 Articles I resontated with:
 
-- [Why culture may be our most powerful lever for progress](https://bigthink.com/high-culture/culture-drives-progress)
+- [Culture Drives Progress](https://bigthink.com/high-culture/culture-drives-progress)
