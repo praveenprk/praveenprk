@@ -75,8 +75,8 @@ Here I learned restraint:
 ---
 
 ## Links
-- Portfolio: https://praveenprk.github.io/whoami/
-- Resume: https://peerlist.io/praveenkumar07/resume
+<!-- - Portfolio: https://praveenprk.github.io/whoami/ -->
+- Peerlist: https://peerlist.io/praveenkumar07/resume
 - Wellfound: https://wellfound.com/u/praveen-kumar-478
 - Contact: incopraveen@gmail.com
 - Personal Blog: https://labormountain.bearblog.dev/blog/
