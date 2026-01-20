@@ -69,7 +69,7 @@ Here I learned restraint:
 ## The road ahead
 
 - Advanced **desktop-native AI systems**
-- **Rust + Tauri** for performance-critical layers
+- Systems engineer path
 - Distributed agents, local-first systems, and human-centered AI
 - Long-term interest: **defense, space, climate, and civilizational infrastructure**
 
