@@ -1,27 +1,82 @@
-### Hello there 👋
+### Hello there!
+## I'm Praveen Kumar (pk)
 
-* 💻 Working with range of javascript technologies, frameworks, libraries
-* 🖥️ Cross-Desktop App & Cross-Browser Extensions developer, app scaled & deployed to 9000 devices
-* 👨‍💻 Next in my career, want to use my full-stack dev skills and work closely with database design, APIs design & development, data pipelines and creating scalable architecture for promising products.
-* 🧭 Want to explore Rust programming language as I want to work on Tauri extensively. Moreover, want to get into systems programming as per my career roadmap.
-* 🔭 Aspiring to work in a space/defence startup down the line.
-* 🤔 I’m looking for help with finding opportunities and understanding the space & defense engineering and its intricacies, finding sensible and civilizational use cases of AI in the fields of climate science and others.
-* 👯 I’m looking to collaborate on AI use cases, creating model for simplifying complex research paper into understandable report with links to required resources for deeper understanding of any research topic.
+I design and build **production-grade systems** - spanning desktop, web, AI integrations, and distributed architectures. I am biased toward **depth, clarity, and long-term leverage**.
 
-**More about me:**
+I'm not interested in novelty for its own sake.  
+I care about systems that survive scale, ambiguity, and real human use.
 
-- 🙋 Portfolio - https://praveenprk.github.io/whoami/
-- 🔭 I’m currently working on a SaaS Management Software
-- 💬 Up for a healthy discussion about AI, robotics, philosophy, books, travel, technology, role of ai in governance, and many more.
-- 📫 How to reach me: incopraveen@gmail.com
+---
 
-**Profiles elsewhere:**
+## What I'm working on now
 
-- https://peerlist.io/praveenkumar07/resume
-- https://wellfound.com/u/praveen-kumar-478
+### 🚀 Unified AI Agent (Core Engineer)
+A multi-platform **AI super-agent** built with Electron, WebViews, and deep browser/system integrations.
 
-<a href="https://app.daily.dev/praveenbharatsagar"><img src="https://api.daily.dev/devcards/v2/XFwqTiovRoTLbUydjzqtu.png?type=default&r=252" width="356" alt="Praveen Kumar's Dev Card"/></a>
+**Key work:**
+- Designed a **config-driven WebView system** to embed and isolate multiple AI platforms (ChatGPT, Claude, Gemini, Meta AI)
+- Built **session-partitioned, CSP-aware** browsing contexts per LLM service
+- Designed IPC pipelines for:
+  - Conversation interception
+  - Tokenization & enrichment
+  - Secure backend sync
+- Implemented **CDP-based instrumentation**, preload bridges, and service-specific injection layers
+- Designed for future extensibility (thousands of tools, zero conditional sprawl)
 
-Articles I resontated with:
+It is infrastructure.
 
-- [Culture Drives Progress](https://bigthink.com/high-culture/culture-drives-progress)
+---
+
+### 🎧 Shure (via Trigent Inc.)
+Worked on **enterprise-grade systems** with a strong emphasis on:
+- Backend reliability
+- API design
+- Production debugging
+- Long-lived codebases with real operational constraints
+
+Here I learned restraint:
+> Not every problem needs cleverness, but correctness.
+
+---
+
+## Core strengths
+
+- **Electron & Desktop Systems**
+  - Electron, WebView/WebContents, preload security, native integrations
+- **Full-Stack Engineering**
+  - React, Node.js, PostgreSQL, APIs, auth flows, session models
+- **AI Systems Integration**
+  - Multi-agent orchestration
+  - Browser-level AI embedding
+  - Conversation capture & processing pipelines
+- **Systems Thinking**
+  - Config over conditionals
+  - Interfaces over implementations
+  - Observability over assumptions
+
+---
+
+## How I think
+
+- Scale is an architectural property, not a feature
+- Abstractions should be written only when absolutely necessary
+- Most engineering failures are coordination failures, not technical
+- Depth > Speed
+
+---
+
+## The road ahead
+
+- Advanced **desktop-native AI systems**
+- **Rust + Tauri** for performance-critical layers
+- Distributed agents, local-first systems, and human-centered AI
+- Long-term interest: **defense, space, climate, and civilizational infrastructure**
+
+---
+
+## Links
+- Portfolio: https://praveenprk.github.io/whoami/
+- Resume: https://peerlist.io/praveenkumar07/resume
+- Wellfound: https://wellfound.com/u/praveen-kumar-478
+- Contact: incopraveen@gmail.com
+- Personal Blog: https://labormountain.bearblog.dev/blog/
