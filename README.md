@@ -3,7 +3,6 @@
 
 I design and build **production-grade systems** - spanning desktop, web, AI integrations, and distributed architectures. I am biased toward **depth, clarity, and long-term leverage**.
 
-I'm not interested in novelty for its own sake.  
 I care about systems that survive scale, ambiguity, and real human use.
 
 ---
@@ -11,7 +10,7 @@ I care about systems that survive scale, ambiguity, and real human use.
 ## What I'm working on now
 
 ### 🚀 Unified AI Agent (Core Engineer)
-A multi-platform **AI super-agent** built with Electron, WebViews, and deep browser/system integrations.
+**AI super-agent** built with Electron, WebViews, and deep browser/system integrations.
 
 **Key work:**
 - Designed a **config-driven WebView system** to embed and isolate multiple AI platforms (ChatGPT, Claude, Gemini, Meta AI)
@@ -23,7 +22,7 @@ A multi-platform **AI super-agent** built with Electron, WebViews, and deep brow
 - Implemented **CDP-based instrumentation**, preload bridges, and service-specific injection layers
 - Designed for future extensibility (thousands of tools, zero conditional sprawl)
 
-It is infrastructure.
+This is infrastructure work.
 
 ---
 
@@ -42,15 +41,15 @@ Here I learned restraint:
 ## Core strengths
 
 - **Electron & Desktop Systems**
-  - Electron, WebView/WebContents, preload security, native integrations
+  - Electron, Backend systems, ability to work in Modular monolith codebase, native integrations
 - **Full-Stack Engineering**
   - React, Node.js, PostgreSQL, APIs, auth flows, session models
 - **AI Systems Integration**
-  - Multi-agent orchestration
-  - Browser-level AI embedding
-  - Conversation capture & processing pipelines
+  - LLM agent orchestration
+  - Transparency, Auditability, Feedback system for cross-functional AI use cases
+  - Secure conversation capture & processing pipelines
 - **Systems Thinking**
-  - Config over conditionals
+  - Configurations over conditionals
   - Interfaces over implementations
   - Observability over assumptions
 
@@ -58,9 +57,11 @@ Here I learned restraint:
 
 ## How I think
 
-- Scale is an architectural property, not a feature
-- Abstractions should be written only when absolutely necessary
+- I break down problem statements and system requirements into first principles and visualize how each pieces can and should interact with each other throughout the system
+- Abstractions should be introduced only when absolutely necessary, same with scale. I don't treat scale as a feature but as an architectural aspect
 - Most engineering failures are coordination failures, not technical
+- Discernment between business requirements and emergence is key to healthy engineering culture
+- Customer > Product > Me & My Team > Manager, I like to stay close to customers
 - Depth > Speed
 
 ---
