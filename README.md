@@ -1,83 +1,47 @@
-### Hello there!
-## I'm Praveen Kumar (pk)
+# Praveen Kumar
 
-I design and build **production-grade systems** - spanning desktop, web, AI integrations, and distributed architectures. I am biased toward **depth, clarity, and long-term leverage**.
+**Platform & Systems Engineer**
 
-I care about systems that survive scale, ambiguity, and real human use.
-
----
-
-## What I'm working on now
-
-### 🚀 Unified AI Agent (Core Engineer)
-**AI super-agent** built with Electron, WebViews, and deep browser/system integrations.
-
-**Key work:**
-- Designed a **config-driven WebView system** to embed and isolate multiple AI platforms (ChatGPT, Claude, Gemini, Meta AI)
-- Built **session-partitioned, CSP-aware** browsing contexts per LLM service
-- Designed IPC pipelines for:
-  - Conversation interception
-  - Tokenization & enrichment
-  - Secure backend sync
-- Implemented **CDP-based instrumentation**, preload bridges, and service-specific injection layers
-- Designed for future extensibility (thousands of tools, zero conditional sprawl)
-
-This is infrastructure work.
+Every component must justify its existence to the whole.
 
 ---
 
-### 🎧 Shure (via Trigent Inc.)
-Worked on **enterprise-grade systems** with a strong emphasis on:
-- Backend reliability
-- API design
-- Production debugging
-- Long-lived codebases with real operational constraints
+I build systems from first principles. Before I write a line of code, I ask why the component exists and what happens to the whole if it doesn't. I try to live by the Unix philosophy: do one thing and do it well.
 
-Here I learned restraint:
-> Not every problem needs cleverness, but correctness.
+**8+ years** across AI governance infrastructure, distributed desktop agents, enterprise RBAC platforms, and founding-stage products.
 
 ---
 
-## Core strengths
+### Things I've built
 
-- **Electron & Desktop Systems**
-  - Electron, Backend systems, ability to work in Modular monolith codebase, native integrations
-- **Full-Stack Engineering**
-  - React, Node.js, PostgreSQL, APIs, auth flows, session models
-- **AI Systems Integration**
-  - LLM agent orchestration
-  - Transparency, Auditability, Feedback system for cross-functional AI use cases
-  - Secure conversation capture & processing pipelines
-- **Systems Thinking**
-  - Configurations over conditionals
-  - Interfaces over implementations
-  - Observability over assumptions
+**Taho by Opnbook** — Built the core data capture engine for an AI governance platform. Chrome DevTools Protocol interception pipeline processing LLM conversations through sanitisation, normalisation, deduplication, and rubric classification. Tabbed session architecture with isolated per-tab state. Cut release cycle from 45 min to 13 min via CI/CD automation.
+
+**Zluri** (via Akrity Computing) — Owned desktop and browser agents streaming ~1M events/day to AWS Kinesis across 20 enterprise orgs. Replaced manual OTP login with device UUID auto-auth via Auth0, enabling silent MDM deployment to thousands of devices. Cut customer MTTR from ~6 hours to 15–30 min. Cross-platform: macOS, Windows, Ubuntu.
+
+**Talspo** — Technical co-founder. Hyper-local talent discovery platform built solo from scratch. PHP/MySQL → REST API → React PWA. Selected from 700+ applicants at iCreate Ahmedabad, 2019.
 
 ---
 
-## How I think
+### How I think
 
-- I break down problem statements and system requirements into first principles and visualize how each pieces can and should interact with each other throughout the system
-- Abstractions should be introduced only when absolutely necessary, same with scale. I don't treat scale as a feature but as an architectural aspect
-- Most engineering failures are coordination failures, not technical
-- Discernment between business requirements and emergence is key to healthy engineering culture
-- Customer > Product > Me & My Team > Manager, I like to stay close to customers
+- Abstractions only when necessary. Scale is an architectural concern, not a feature.
+- Most engineering failures are coordination failures, not technical ones.
+- Configuration over conditionals. Interfaces over implementations. Observability over assumptions.
 - Depth > Speed
+- Logs > Code
 
 ---
 
-## The road ahead
+### Writing
 
-- Advanced **desktop-native AI systems**
-- Systems engineer path
-- Distributed agents, local-first systems, and human-centered AI
-- Long-term interest: **defense, space, climate, and civilizational infrastructure**
+- [How I built a browser with Electron](https://praveenkumar07.substack.com/p/how-i-built-a-browser-with-electron)
+- [Breaking the web carefully — request interception](https://praveenkumar07.substack.com/p/breaking-the-web-carefully-request)
+- [WebView to database — building a reliable pipeline](https://praveenkumar07.substack.com/p/webview-to-database-building-a-reliable)
 
 ---
 
-## Links
-<!-- - Portfolio: https://praveenprk.github.io/whoami/ -->
-- Peerlist: https://peerlist.io/praveenkumar07/resume
-- Wellfound: https://wellfound.com/u/praveen-kumar-478
-- Contact: incopraveen@gmail.com
-- Personal Blog: https://labormountain.bearblog.dev/blog/
+### Currently
+
+Open to product companies — India or remote — where the engineering problems are real and the systems are worth building carefully.
+
+[incopraveen@gmail.com](mailto:incopraveen@gmail.com) · [linkedin.com/in/praveenkumar97](https://linkedin.com/in/praveenkumar97) · [praveenprk.github.io/whoami](https://praveenprk.github.io/whoami)
